@@ -1,0 +1,16 @@
+p {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+body {
+    /* This style below will be inherited */
+    font-family: Roboto, Arial;
+    margin: 0;
+    padding-top: 110px;
+    padding-right: 24px;
+    padding-left: 96px;
+    background-image: url(../photo_2023-09-26_19-22-29.jpg);
+    background-attachment: fixed;
+}
+
